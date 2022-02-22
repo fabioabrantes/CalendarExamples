@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "projCalendars",
+    "slug": "projCalendars",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "projCalendars"
+}
